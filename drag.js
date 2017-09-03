@@ -6,6 +6,8 @@ function drag(id){
       
   }
 obj.onmousemove=function(){
+disX=0;
+  disY=0;
 }
 
 }
